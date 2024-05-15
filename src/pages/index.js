@@ -20,7 +20,17 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            Big Button🤯
+          </Link>
+          <Link
+            className="button button--secondary button--md"
+            to="/docs/intro">
+            Medium Button😱
+          </Link>
+          <Link
+            className="button button--secondary button--sm"
+            to="/docs/intro">
+            Small Button😨
           </Link>
         </div>
       </div>
